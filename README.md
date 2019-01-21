@@ -1,2 +1,2 @@
 # nodeBeginner
-## bulid a xxx from scratch
+## bulid a xxx from scratch to relearn NodeJS
