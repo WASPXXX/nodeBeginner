@@ -8,4 +8,4 @@
 * blocking/non-blocking
 * callback
 * event-driven
-* internal/external mod
+* internal/external mod usage
