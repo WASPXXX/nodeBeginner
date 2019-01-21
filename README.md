@@ -1,5 +1,5 @@
 # nodeBeginner
-## bulid a web application with NodeJS from scratch to re101 NodeJS
+## bulid a web application with NodeJS to re101 IT
 * used through web browsers
 * upload a picture, stored in server and display through their browser  
 ## key words
