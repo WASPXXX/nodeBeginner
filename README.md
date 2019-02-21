@@ -1,5 +1,5 @@
 # nodeBeginner
-## bulid a web application with NodeJS to re101 it
+## bulid a web application with NodeJS to learn how it works
 * used through web browsers
 * upload a picture, stored in server and display through their browser  
 ## key words
